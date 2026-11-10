@@ -1,21 +1,35 @@
 ### Hi, I'm Shakhawat 👋
 
-Open-source **AI engineer** building LLM-powered tools, agents and RAG systems.
+**Data Scientist & AI Engineer** based in Duisburg, Germany. I turn business problems into data and AI solutions, from forecasting and optimization to LLM, RAG and agentic systems.
 
-🚀 **Currently building [veyntora](https://github.com/shturag/veyntora)**: enterprise agentic intelligence that connects knowledge, empowers agents and automates work.
+🏢 Data Scientist, Data & AI Solutions at **Essener Systemhaus** (City of Essen), building LLM chatbots, voicebots and RAG knowledge systems
+
+🚀 Building **[veyntora](https://github.com/shturag/veyntora)** in the open: enterprise agentic intelligence that connects knowledge, empowers agents and automates work
+
+🌱 CEO & Co-Founder of **[NagarLab](https://nagarlab.com)**, the team behind [BazarDorBD](https://bazardorbd.com)
+
+#### 💼 Experience
+
+| Role | Company | Years |
+| --- | --- | --- |
+| Data Scientist, Data & AI Solutions | Essener Systemhaus, City of Essen | 2025 to now |
+| Analytics Professional | Deloitte Consulting | 2022 to 2024 |
+| Engineering / Image Processing Intern | BMW Group | 2021 to 2022 |
+| Student Research Assistant, Data Analytics | University of Duisburg-Essen | 2018 to 2021 |
+| Data Science Intern | StepStone | 2017 to 2019 |
 
 #### 🧠 What I work on
 
 | Area | Focus |
 | --- | --- |
-| LLMs & agents | Agentic workflows, tool use, retrieval-augmented generation |
-| Machine learning | Time-series forecasting, deep learning, data pipelines |
-| MLOps | CI/CD, Docker, Kubernetes, reproducible experiments |
-| Research | Energy economics & language technology (Universität Duisburg-Essen) |
+| Generative AI | LLMs, RAG, agents, speech-to-text, prompt engineering |
+| Machine learning | Forecasting, regression, clustering, optimization, computer vision |
+| Data engineering | Pipelines, ETL, web crawling, PySpark, Hadoop, Hive |
+| Analytics | Process mining, market basket analysis, dashboards |
 
 #### 🛠️ Stack
 
-`Python` `PyTorch` `Hugging Face` `LangChain` `FastAPI` `Docker` `Kubernetes` `TypeScript`
+`Python` `SQL` `R` `PySpark` `OpenCV` `FastAPI` `LangGraph` `vLLM` `Qdrant` `Elasticsearch` `Docker` `Kubernetes` `PostgreSQL` `Qlik Sense` `Plotly`
 
 #### 📌 Selected projects
 
@@ -23,11 +37,14 @@ Open-source **AI engineer** building LLM-powered tools, agents and RAG systems.
 | --- | --- |
 | [veyntora](https://github.com/shturag/veyntora) | Enterprise agentic intelligence platform |
 | [Time-Series-Forecasting](https://github.com/shturag/Time-Series-Forecasting) | Tutorials for time-series forecasting models |
-| [MIU_Thesis_CSE](https://github.com/shturag/MIU_Thesis_CSE) | CSE thesis project |
-| [EWL-DUE](https://github.com/shturag/EWL-DUE) | Energy economics work, Universität Duisburg-Essen |
+| [EWL-DUE](https://github.com/shturag/EWL-DUE) | Energy economics research work, Universität Duisburg-Essen |
+
+#### 🎓 Education
+
+B.Sc. Software Engineering, University of Duisburg-Essen. Thesis on investment decisions in small-scale combined heat and power using linear optimization.
 
 #### 🤝 Let's connect
 
-Issues, PRs and collaboration ideas are welcome.
+Issues, PRs and collaboration ideas are welcome. I speak English, German and Bengali.
 
 [Website](https://shakhawat-turag.dev/) · [LinkedIn](https://www.linkedin.com/in/shakhawat-hossain-turag/) · [Blog](https://sjshtura.github.io)
