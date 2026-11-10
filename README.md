@@ -2,7 +2,7 @@
 
 **Data Scientist & AI Engineer** based in Germany. I turn business problems into data and AI solutions, from forecasting and optimization to LLM, RAG and agentic systems.
 
-🏢 Data Scientist, Data & AI Solutions at public servce, building LLM chatbots, voicebots and RAG knowledge systems
+🏢 Data Scientist, AI Solutions & Automation at public service, building LLM chatbots, voicebots and RAG knowledge systems
 
 🚀 Building **[veyntora](https://github.com/shturag/veyntora)** in the open: enterprise agentic intelligence that connects knowledge, empowers agents and automates work
 
